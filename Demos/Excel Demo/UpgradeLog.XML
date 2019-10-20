@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Excel Demo">
+</Property><Property Name="ソリューション ファイル" Value="L:\Projects\Ultimate Grid\Demos\Excel Demo\Excel Demo.sln">
+</Property><Property Name="Date" Value="2013年5月6日">
+</Property><Property Name="Time" Value="19:09:25">
+</Property></Properties><Event ErrorLevel="0" Project="Excel Demo" Source="Excel Demo.vcproj" Description="Converting project file 'L:\Projects\Ultimate Grid\Demos\Excel Demo\Excel Demo.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Excel Demo" Source="Excel Demo.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="Excel Demo" Source="Excel Demo.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Excel Demo" Source="Excel Demo.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Excel Demo" Source="Excel Demo.vcproj" Description="MSB8012: $(TargetPath) ('L:\Projects\Ultimate Grid\Demos\Excel Demo\.\Debug\Excel Demo.exe') does not match the Linker's OutputFile property value '.\Debug/Excel Demo.exe' ('L:\Projects\Ultimate Grid\Demos\Excel Demo\Debug/Excel Demo.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="Excel Demo" Source="Excel Demo.vcproj" Description="MSB8012: $(TargetPath) ('L:\Projects\Ultimate Grid\Demos\Excel Demo\.\Release\Excel Demo.exe') does not match the Linker's OutputFile property value '.\Release/Excel Demo.exe' ('L:\Projects\Ultimate Grid\Demos\Excel Demo\Release/Excel Demo.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="Excel Demo" Source="Excel Demo.vcproj" Description="Done converting to new project file 'L:\Projects\Ultimate Grid\Demos\Excel Demo\Excel Demo.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Excel Demo" Source="Excel Demo.vcproj" Description="Converted">
+</Event></UpgradeLog>

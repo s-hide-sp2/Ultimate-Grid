@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{b1049a74-74fa-4e11-b571-26d3287a6ca1}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{b4021928-275c-47fc-9588-0a4512696af8}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{7032b95e-12fe-448d-a5f0-90e13cf99cb2}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Ultimate Grid">
+      <UniqueIdentifier>{4fa08a5d-0cb4-4021-8da3-301e9fd40614}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ultimate Grid\Source">
+      <UniqueIdentifier>{e75621a7-3847-4986-b3ba-6a3425e9c2ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ultimate Grid\Celltypes">
+      <UniqueIdentifier>{321bc598-e0ee-463f-a937-066f3bd0d22e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ultimate Grid\Edit Controls">
+      <UniqueIdentifier>{953b257f-a084-413f-962c-c91520758c43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ultimate Grid\Include">
+      <UniqueIdentifier>{734494cc-a4b0-4356-9a12-28c60a9a0ee9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Build DLL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGCBType.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGCell.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGCelTyp.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGCnrBtn.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGCTarrw.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGCtrl.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGDLType.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGDrgDrp.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGDrwHnt.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGDtaSrc.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGEdit.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGEditBase.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\ugformat.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\uggdinfo.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGGrid.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGHint.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\ughscrol.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\ugLstBox.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGMEdit.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGMemMan.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGMultiS.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\ugprint.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\ugptrlst.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\ugsidehd.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGStrOp.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\ugtab.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGTopHdg.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\ugvscrol.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\UGXPThemes.cpp">
+      <Filter>Ultimate Grid\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTafnt.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTAutoSize.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTbutn.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTDropGrid.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTdtp.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\ugctelps.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTLabeled.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTMarquee.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTmfnt.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTNote.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\ugctnotewnd.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTpie.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTpro1.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTprog.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTRado.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTsarw.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTsldr.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CellTypes\UGCTSpin.cpp">
+      <Filter>Ultimate Grid\Celltypes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EditControls\UTEdit.cpp">
+      <Filter>Ultimate Grid\Edit Controls</Filter>
+    </ClCompile>
+    <ClCompile Include="..\EditControls\UTMaskedEdit.cpp">
+      <Filter>Ultimate Grid\Edit Controls</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Build DLL.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UG64Bit.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGCBType.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGCell.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\ugceltyp.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGCnrBtn.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGCTarrw.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGCtrl.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\ugdefine.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGDLType.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGDrgDrp.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGDrwHnt.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGDtaSrc.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGEdit.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGEditBase.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\ugformat.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\uggdinfo.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGGrid.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGHint.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\ughscrol.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\uglstbox.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGMEdit.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGMemMan.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGMultiS.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\ugprint.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\ugptrlst.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\ugsidehd.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGStrOp.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\ugstruct.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\ugtab.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\UGTopHdg.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\ugvscrol.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\ugxpthemes.h">
+      <Filter>Ultimate Grid\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Build DLL.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>

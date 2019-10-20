@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Find and Sort", "Find and Sort.vcxproj", "{1D07726F-8E99-454F-9442-1E48BEA2D00D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D07726F-8E99-454F-9442-1E48BEA2D00D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1D07726F-8E99-454F-9442-1E48BEA2D00D}.Debug|Win32.Build.0 = Debug|Win32
+		{1D07726F-8E99-454F-9442-1E48BEA2D00D}.Release|Win32.ActiveCfg = Release|Win32
+		{1D07726F-8E99-454F-9442-1E48BEA2D00D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

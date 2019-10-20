@@ -1,0 +1,18 @@
+# /BuildDLL/Debug/
+/BuildDLL/Debug/
+/BuildDLL/Release/
+/BuildDLL/Unicode_Release
+/BuildDLL/*.user
+/BuildDLL/*.opt
+/BuildDLL/*.clw
+/BuildDLL/*.ncb
+/BuildDLL/*.aps
+/BuildDLL/*.mak
+/BuildDLL/*.suo
+/BuildDLL/*.pdb
+
+# /DLLs/
+/DLLs/*.exp
+/DLLs/*.lib
+/DLLs/*.dll
+/DLLs/*.ilk
